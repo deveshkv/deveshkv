@@ -1,6 +1,6 @@
 <!-- Animated Boy Coder GIF (customize or use any boy coder animation you like) -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" />
+  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="deveshkv profile picture" width="250" style="border-radius: 80%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Devesh Verma</h1>
